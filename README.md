@@ -169,20 +169,16 @@ pip install -r requirements.txt
 
 ## References
 
-[1] Verma, S., Eftekhari, N., Angione, C., Occhipinti, A., et al.
-From bulk to single-cell and spatial data: An AI framework to characterise breast cancer metabolic dysregulations across modalities.
-*Computers in Biology and Medicine*, 198:111195, 2025.
+[1] Chelebian, E., Avenel, C., Wählby, C.  
+Combining spatial transcriptomics with tissue morphology.  
+*Nature Communications*, 16(1):4452, 2025.
 
-[6] Verma, S., Magazzu, G., Eftekhari, N., Lou, T., Gilhespy, A., Occhipinti, A., Angione, C.
-Cross-attention enables deep learning on limited omics-imaging-clinical data of 130 lung cancer patients.
-*Cell Reports Methods*, 4(7), 2024.
+[2] Luo, J., Fu, J., Lu, Z., Tu, J.  
+Deep learning in integrating spatial transcriptomics with other modalities.  
+*Briefings in Bioinformatics*, 26(1):bbae719, 2025.
 
-[7] Occhipinti, A., Verma, S., Angione, C., et al.
-Mechanism-aware and multimodal AI: beyond model-agnostic interpretation.
-*Trends in Cell Biology*, 34(2):85–89, 2024.
-
-[9] Doan, L. M. T., Shahhosseini, K., Verma, S., Marefat, A., Locicero, G., Verma, S., Angione, C., Occhipinti, A.
-Bridging modalities with AI: a review of AI advances in multimodal biomedical imaging.
+[3] Doan, L. M. T., Shahhosseini, K., Verma, S., Marefat, A., Locicero, G., Verma, S., Angione, C., Occhipinti, A.  
+Bridging modalities with AI: a review of AI advances in multimodal biomedical imaging.  
 *Communications Engineering*, 5(1):30, 2026.
 
 ```
