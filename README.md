@@ -169,16 +169,12 @@ pip install -r requirements.txt
 
 ## References
 
-[1] Chelebian, E., Avenel, C., Wählby, C.  
-Combining spatial transcriptomics with tissue morphology.  
-*Nature Communications*, 16(1):4452, 2025.
+[1] Chelebian, E., Avenel, C., Wählby, C.(2025) Combining spatial transcriptomics with tissue morphology. *Nature Communications*, 16(1):4452.
 
-[2] Luo, J., Fu, J., Lu, Z., Tu, J.  
-Deep learning in integrating spatial transcriptomics with other modalities.  
-*Briefings in Bioinformatics*, 26(1):bbae719, 2025.
+[2] Luo, J., Fu, J., Lu, Z., Tu, J. (2025) Deep learning in integrating spatial transcriptomics with other modalities.  
+*Briefings in Bioinformatics*, 26(1):bbae719.
 
-[3] Doan, L. M. T., Shahhosseini, K., Verma, S., Marefat, A., Locicero, G., Verma, S., Angione, C., Occhipinti, A.  
-Bridging modalities with AI: a review of AI advances in multimodal biomedical imaging.  
-*Communications Engineering*, 5(1):30, 2026.
+[3] Doan, L. M. T., Shahhosseini, K., Verma, S., Marefat, A., Locicero, G., Verma, S., Angione, C., Occhipinti, A. (2026) 
+Bridging modalities with AI: a review of AI advances in multimodal biomedical imaging. *Communications Engineering*, 5(1):30.
 
 ```
