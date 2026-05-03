@@ -8,7 +8,7 @@
 
 This repository presents a complete and reproducible pipeline for analysing **multiplex spatial transcriptomics data** through the integration of **gene expression** and **morphology-derived imaging features**. The framework operates at single-cell resolution and demonstrates that combining transcriptomic and morphological signals improves the identification of biologically meaningful cell populations.
 
-Gene expression is modelled using a **Graph Transformer Network** to capture spatial neighbourhood relationships, while morphological features are extracted using a **convolutional neural network (CNN)**. These modalities are integrated within a multimodal graph-based framework to learn enriched spatial representations of tissue architecture, building on recent advances in multimodal and cross-attention learning for biomedical data integration [1,6,7,9].
+Gene expression is modelled using a **Graph Transformer Network** to capture spatial neighbourhood relationships, while morphological features are extracted using a **convolutional neural network (CNN)**. These modalities are integrated within a multimodal graph-based framework to learn enriched spatial representations of tissue architecture, building on recent advances in multimodal and cross-attention learning for biomedical data integration.
 
 ---
 
