@@ -145,7 +145,7 @@ https://info.vizgen.com/ffpe-showcase?submissionGuid=c2b903c1-af36-4e0e-be04-084
   - Cell type resolution  
   - Cluster robustness  
   - Biological interpretability  
-- These findings are consistent with recent work on multimodal and mechanism-aware AI in biomedical systems [7,9]  
+- These findings are consistent with recent work on multimodal biomedical systems.  
 
 ---
 
